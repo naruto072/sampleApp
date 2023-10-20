@@ -65,7 +65,7 @@ orientation = portrait
 osx.python_version = 3
 
 # Kivy version to use
-osx.kivy_version = 1.9.1
+#osx.kivy_version = 1.9.1
 
 #
 # Android specific
@@ -94,7 +94,7 @@ android.presplash_lottie = "42369-weather-wind.json"
 #android.features = android.hardware.usb.host
 
 # (int) Target Android API, should be as high as possible.
-android.api = 28
+#android.api = 28
 
 # (int) Minimum API your APK will support.
 #android.minapi = 21
@@ -223,7 +223,7 @@ android.api = 28
 #android.copy_libs = 1
 
 # (str) The Android arch to build for, choices: armeabi-v7a, arm64-v8a, x86, x86_64
-android.arch = armeabi-v7a
+#android.arch = armeabi-v7a
 
 # (int) overrides automatic versionCode computation (used in build.gradle)
 # this is not the same as app version and should only be edited if you know what you're doing
